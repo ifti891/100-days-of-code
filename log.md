@@ -12,7 +12,7 @@ I mean in essence it's nice but there is a small problem, that is it is hard for
 3. I wish if there was some kind of already some guiding material i.e., courses available such as on freeCodeCamp.
 Such as some pythone jyputer libraries to work on or any other guiding courses that that a novice could follow. 
 
-4. Right now i am tryong to find out what should i look for i.e., trying to search for some courses on freeCodeCamp to guide myself.
+4. Right now i am trying to find out what should i look for i.e., trying to search for some courses on freeCodeCamp to guide myself.
 
 5. Ok i am figuring out something about #100DayofCode. It's like a diary entry 
 
