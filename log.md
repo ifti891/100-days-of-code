@@ -4,6 +4,9 @@
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**:
+
+**Started with the Challenge**
+
 1.  I am trying to figure out how to work at the first place as i am not able to find or locate whatever i supposed to do.
 
 2. The way i understand this project is that one has to choose project of their own liking, am i right? 
