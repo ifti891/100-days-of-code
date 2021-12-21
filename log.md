@@ -18,8 +18,8 @@ Such as some pythone jyputer libraries to work on or any other guiding courses t
 
 6. First thing i want to do is to complete two courses. No nothing heavy programming/coding. Just want to clear some basics. 
 
-**First:** complete the #CodeInPlace which i joined in March 2021 offered by Stanford University.
-**Second:** I am also doing another small python library course to learn the basics.
+**First:** complete the #CodeInPlace which i joined in March 2021 offered by Stanford University. 
+\n**Second:** I am also doing another small python library course to learn the basics.
 
 These two are my priorities right now.
 
