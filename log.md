@@ -29,25 +29,26 @@ These two are my priorities right now.
 
 All though today i learned bout Github and really able to clone and worked on the clone library in Github.
 
- <!-- Fixed CSS, worked on canvas functionality for the app. -->
+ <!-- Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts:** Yes struggled and confused and also at the same time i am under huge work load but still going to complete this challenge.
 
-<!-- I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
 
-<!-- **Link to work:** [Calculator App](http://www.example.com) -->
+<!-- **Link to work:** [Calculator App](http://www.example.com) --> -->
 
-<!-- ### Day 0: February 30, 2016 (Example 2)
+### Day 0: December 22, 2021
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on the learning building a cat app on freecodecamp.
+Completed around 36% of the excercise. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Right now i am cool and understand but i belive it will eventuly get harder as i learn more and more.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Cat App](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 

@@ -12,3 +12,7 @@ Not able to find the above example and i am trying to figure out how to start?
 **Started with my Challenge**
 
 ### R1D2
+
+Started learning HTML and web designing on FreeCodeCamp and i am enjoying it actully.
+
+### R1D3
