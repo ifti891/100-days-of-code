@@ -47,7 +47,7 @@ Completed around 36% of the excercise.
 
 I am currently building some webapp on FreeCodeCamp, i have compleated the 68% of the course. And actually enjoying it. I hope i will be able to continue the 100DaysChallenge. 
 
-The only problem i am face is internet. first i don't have enough data. I connect to my smartphone through a hotspot. The data is only 2GB per day which is what i can afford right on a phone network. Fiber is not available in my area. And the other issues is I don't know when the state governemet will shutdown the Internet, which is pretty common here. But at the same time it's cold here and our home are not that kind of warm where one can sit down in peace and work.
+The problem i am facing is internet. first i don't have enough data. I connect to my smartphone through a hotspot. The data is only 2GB per day which is what i can afford right on a phone network. Fiber is not available in my area. And the other issues is I don't know when the state governemet will shutdown the Internet, which is pretty common here. But at the same time it's cold here and our home are not that kind of warm where one can sit down in peace and work.
 
 But but as i am also applying for some PhD's in foreign countries which take aways a very lot of my time. Thinking, writing, waiting, and also trying to learn some new skills for future jobs (that's why i am learning coding) in very very irregular electricty.
 
