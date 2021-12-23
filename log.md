@@ -54,12 +54,16 @@ But but as i am also applying for some PhD's in foreign countries which take awa
 **Link(s) to work**: [Cat App](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
 
 
-<!-- ### Day 1: June 27, Monday
+### Day 1: December 23, Theusday 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Today I've gone through many exercises on FreeCodeCamp. 
+learnt basics of HTML
+learned ordered lists, unordered lists, checkboxes, radio, (div) container, full page html production such as DOCTYPE, head, body, meta.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Compleated the 100% of first excercises of building CapAPP
 
-**Link(s) to work**
+**Thoughts** I've recently started coding, and it's a great feeling, i am also learning python.
+
+<!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
