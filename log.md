@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: December 21, 2021 (Example 1)
+
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**:
@@ -9,19 +10,19 @@
 
 1.  I am trying to figure out how to work at the first place as i am not able to find or locate whatever i supposed to do.
 
-2. The way i understand this project is that one has to choose project of their own liking, am i right? 
-I mean in essence it's nice but there is a small problem, that is it is hard for the newcommers who just started with the coding. It gets hard to imagine something at the first place.
+2.  The way i understand this project is that one has to choose project of their own liking, am i right?
+    I mean in essence it's nice but there is a small problem, that is it is hard for the newcommers who just started with the coding. It gets hard to imagine something at the first place.
 
-3. I wish if there was some kind of already some guiding material i.e., courses available such as on freeCodeCamp.
-Such as some pythone jyputer libraries to work on or any other guiding courses that that a novice could follow. 
+3.  I wish if there was some kind of already some guiding material i.e., courses available such as on freeCodeCamp.
+    Such as some pythone jyputer libraries to work on or any other guiding courses that that a novice could follow.
 
-4. Right now i am trying to find out what should i look for i.e., trying to search for some courses on freeCodeCamp to guide myself.
+4.  Right now i am trying to find out what should i look for i.e., trying to search for some courses on freeCodeCamp to guide myself.
 
-5. Ok i am figuring out something about #100DayofCode. It's like a diary entry 
+5.  Ok i am figuring out something about #100DayofCode. It's like a diary entry
 
-6. First thing i want to do is to complete two courses. No nothing heavy programming/coding. Just want to clear some basics. 
+6.  First thing i want to do is to complete two courses. No nothing heavy programming/coding. Just want to clear some basics.
 
-**First:** complete the #CodeInPlace which i joined in March 2021 offered by Stanford University. 
+**First:** complete the #CodeInPlace which i joined in March 2021 offered by Stanford University.
 
 **Second:** I am also doing another small python library course to learn the basics.
 
@@ -38,14 +39,15 @@ I really struggled with CSS, but, overall, I feel like I am slowly getting bette
 <!-- **Link to work:** [Calculator App](http://www.example.com) --> -->
 
 ### Day 0: December 22, 2021
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Worked on the learning building a cat app on freecodecamp.
-Completed around 36% of the excercise. 
+Completed around 36% of the excercise.
 
 **Thoughts**: Right now i am cool and understand but i belive it will eventuly get harder as i learn more and more.
 
-I am currently building some webapp on FreeCodeCamp, i have compleated the 68% of the course. And actually enjoying it. I hope i will be able to continue the 100DaysChallenge. 
+I am currently building some webapp on FreeCodeCamp, i have compleated the 68% of the course. And actually enjoying it. I hope i will be able to continue the 100DaysChallenge.
 
 The problem i am facing is internet. first i don't have enough data. I connect to my smartphone through a hotspot. The data is only 2GB per day which is what i can afford right on a phone network. Fiber is not available in my area. And the other issues is I don't know when the state governemet will shutdown the Internet, which is pretty common here. But at the same time it's cold here and our home are not that kind of warm where one can sit down in peace and work.
 
@@ -53,10 +55,9 @@ But but as i am also applying for some PhD's in foreign countries which take awa
 
 **Link(s) to work**: [Cat App](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/link-to-internal-sections-of-a-page-with-anchor-elements)
 
-
 ### Day 1: December 23, Theusday 2021
 
-**Today's Progress**: Today I've gone through many exercises on FreeCodeCamp. 
+**Today's Progress**: Today I've gone through many exercises on FreeCodeCamp.
 learnt basics of HTML
 learned ordered lists, unordered lists, checkboxes, radio, (div) container, full page html production such as DOCTYPE, head, body, meta.
 
@@ -67,3 +68,13 @@ Compleated the 100% of first excercises of building CapAPP
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+
+### Day 2 December 24, Friday 2021
+
+**Today's Progress**: Today i started with CSS after completing the basic of HTML on #FreeCodeCamp.
+
+1. i don't know why i was never introduced to even basic programming earlier when i was in school or even in college.
+2. I really enjoy coding but i need stimuli because if there is no purpose the person keep up for long.
+3. Right now the stimuli i have is to get beet and make a website for myself and later learn bit more so that i can apply for a junier (whats the spellings of junier?) developer.
+
+**Thoughts** I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
