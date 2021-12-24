@@ -78,3 +78,9 @@ Compleated the 100% of first excercises of building CapAPP
 3. Right now the stimuli i have is to get beet and make a website for myself and later learn bit more so that i can apply for a junier (whats the spellings of junier?) developer.
 
 **Thoughts** I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
+
+## Day 3 December 25 (Merry Christmas Day), Saturday 2021
+
+**Today's Progress**
+
+**Thaughts**
