@@ -76,6 +76,9 @@ Compleated the 100% of first excercises of building CapAPP
 1. i don't know why i was never introduced to even basic programming earlier when i was in school or even in college.
 2. I really enjoy coding but i need stimuli because if there is no purpose the person keep up for long.
 3. Right now the stimuli i have is to get beet and make a website for myself and later learn bit more so that i can apply for a junier (whats the spellings of junier?) developer.
+4. Unrolled from Harvard #CS50 i will return to the course after getting my grip over Python.
+5. It didn't aligned with my goals.
+6. Though spent around 6 hours on the course and now decided that CS50 is not for me. Becasue i am learning Python and want to learn it more and better.
 
 **Thoughts** I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
 
