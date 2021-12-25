@@ -84,4 +84,11 @@ Compleated the 100% of first excercises of building CapAPP
 
 **Today's Progress**
 
+1. Spent around 2.5 hours learning the different aspect of programming.
+2. Browsed through Odin Project to check if i can also learn from there apart from FreeCodeCamp. But odin Project reguires much bigger setup which i didn't have right now apart from not being available on Windows platfor. But Web development coure is very enticing on odin project.
+3. Completed basic HTML, now at 75% of CSS. 
+
 **Thaughts**
+The proble is that i think i have to revisit and revise all those functions which i am going through on FreeCodeCamp. I can solve the problems but then again if i return to some previous proble without having explicitly mentions what to do, i do get stuck.
+
+But i think this sort of a proble is something which everyone might be facing. All in all i am enjoying my Webdevelopment Journey along with Python i am learning, for which was slected for Stanfords's Code In Place Python course. 

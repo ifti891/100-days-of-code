@@ -23,3 +23,7 @@ completed the basic of html and next step to learn html.
 ### R1D4
 
 completer basic Html on FreeCodeCamp and started with CSS along with it also learning Python.
+
+### R1D5
+
+Completed basic Html and currently completed 75% of CSS from Responsive WebDesigning on FreeCodeCamp along with it learning Python.
