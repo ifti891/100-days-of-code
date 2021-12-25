@@ -69,7 +69,9 @@ Compleated the 100% of first excercises of building CapAPP
 
 ### Day 2 December 24, Friday 2021
 
-**Today's Progress**: Today i started with CSS after completing the basic of HTML on #FreeCodeCamp.
+**Today's Progress**:
+
+Today i started with CSS after completing the basic of HTML on #FreeCodeCamp.
 
 1. i don't know why i was never introduced to even basic programming earlier when i was in school or even in college.
 2. I really enjoy coding but i need stimuli because if there is no purpose the person keep up for long.
@@ -78,17 +80,24 @@ Compleated the 100% of first excercises of building CapAPP
 5. It didn't aligned with my goals.
 6. Though spent around 6 hours on the course and now decided that CS50 is not for me. Becasue i am learning Python and want to learn it more and better.
 
-**Thoughts** I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
+**Thoughts:**
+I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
 
 ## Day 3 December 25 (Merry Christmas Day), Saturday 2021
 
-**Today's Progress**
+**Today's Progress:**
 
 1. Spent around 2.5 hours learning the different aspect of programming.
 2. Browsed through Odin Project to check if i can also learn from there apart from FreeCodeCamp. But odin Project reguires much bigger setup which i didn't have right now apart from not being available on Windows platfor. But Web development coure is very enticing on odin project.
-3. Completed basic HTML, now at 75% of CSS. 
+3. Completed basic HTML, now at 75% of CSS.
 
-**Thaughts**
+**Thought's**
 The proble is that i think i have to revisit and revise all those functions which i am going through on FreeCodeCamp. I can solve the problems but then again if i return to some previous proble without having explicitly mentions what to do, i do get stuck.
 
-But i think this sort of a proble is something which everyone might be facing. All in all i am enjoying my Webdevelopment Journey along with Python i am learning, for which was slected for Stanfords's Code In Place Python course. 
+But i think this sort of a proble is something which everyone might be facing. All in all i am enjoying my Webdevelopment Journey along with Python i am learning, for which was slected for Stanfords's Code In Place Python course.
+
+## Day 4 December 26, Sunday 2021
+
+**Today's Progress:**
+
+**Thought's**
