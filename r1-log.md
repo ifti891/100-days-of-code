@@ -27,3 +27,11 @@ completer basic Html on FreeCodeCamp and started with CSS along with it also lea
 ### R1D5
 
 Completed basic Html and currently completed 75% of CSS from Responsive WebDesigning on FreeCodeCamp along with it learning Python.
+
+### R1D6 
+
+Completed basic CSS alongwith basic HTML on freecodecamp. 
+
+
+## R1D7
+

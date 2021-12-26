@@ -67,7 +67,7 @@ Compleated the 100% of first excercises of building CapAPP
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 2 December 24, Friday 2021
+### Day 2: December 24, Friday 2021
 
 **Today's Progress**:
 
@@ -83,7 +83,7 @@ Today i started with CSS after completing the basic of HTML on #FreeCodeCamp.
 **Thoughts:**
 I enojoy it and committed to continue the journey for longer and get better. Aside from Web designing i am also learning python at my ow descrition.
 
-## Day 3 December 25 (Merry Christmas Day), Saturday 2021
+## Day 3: December 25 (Merry Christmas Day), Saturday 2021
 
 **Today's Progress:**
 
@@ -96,7 +96,7 @@ The proble is that i think i have to revisit and revise all those functions whic
 
 But i think this sort of a proble is something which everyone might be facing. All in all i am enjoying my Webdevelopment Journey along with Python i am learning, for which was slected for Stanfords's Code In Place Python course.
 
-## Day 4 December 26, Sunday 2021
+## Day 4: December 26, Sunday 2021
 
 **Today's Progress:**
 
@@ -115,3 +115,9 @@ The only issue with the bootcamp is that i have very limited data and i have to 
  And i received just another PhD rejecction for which i was hopping and applied for. Well i think these things happen, we got to learn to move ahead instead of sticking to failure's and ruminating on them. Guess what i am doing i doing something i love and never got the chance to explore earlier. I will be a Fullstack developer sooner than later.
 
  Though i completed basic CSS and basic HTML on freecodecamp but i kind of struggling, however, i know more than what i knew earlier.
+
+## Day 5: December 26, 2021
+
+**Today's Progress:**
+
+**Thought's**
