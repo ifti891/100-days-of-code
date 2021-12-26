@@ -99,11 +99,12 @@ But i think this sort of a proble is something which everyone might be facing. A
 ## Day 4 December 26, Sunday 2021
 
 **Today's Progress:**
-1. Completed basic CSS after completing basic HTML on FreeCodeCamp. 
+
+1. Completed basic CSS after completing basic HTML on FreeCodeCamp.
 2. Happy with the progress though.
 3. Also thinking to join a bootcamp on Fullstack development offered freely by Leon:
-[Twitter/leonnoel] (https://leonnoel.com/twitter)
-[Twitch/leonnoel] (https://leonnoel.com/twitch) (https://www.twitch.tv/learnwithleon)
+[Twitter/leonnoel] (<https://leonnoel.com/twitter>)
+[Twitch/leonnoel] (<https://leonnoel.com/twitch>) (<https://www.twitch.tv/learnwithleon>)
 
 4. It's a full commited course and i hope i will be able to do justice to it.
 
@@ -111,6 +112,6 @@ But i think this sort of a proble is something which everyone might be facing. A
 
 The only issue with the bootcamp is that i have very limited data and i have to use it c=judicesly i might not be able to watch it live as always. But i wll figure out. Nevertheless i am excited.
 
- And i received just another PhD rejecction for which i was hopping and applied for. Well i think these things happen, we got to learn to move ahead instead of sticking to failure's and ruminating on them. Guess what i am doing i doing something i love and never got the chance to explore earlier. I will be a Fullstack developer sooner than later. 
+ And i received just another PhD rejecction for which i was hopping and applied for. Well i think these things happen, we got to learn to move ahead instead of sticking to failure's and ruminating on them. Guess what i am doing i doing something i love and never got the chance to explore earlier. I will be a Fullstack developer sooner than later.
 
  Though i completed basic CSS and basic HTML on freecodecamp but i kind of struggling, however, i know more than what i knew earlier.
