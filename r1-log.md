@@ -37,3 +37,6 @@ Completed basic CSS alongwith basic HTML on freecodecamp.
 
 Completed 37% of Applied Visual design after basic HTML and CSS today. will also play with python late night.
 
+
+## R1D7
+
