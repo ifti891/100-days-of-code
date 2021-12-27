@@ -119,5 +119,17 @@ The only issue with the bootcamp is that i have very limited data and i have to 
 ## Day 5: December 26, 2021
 
 **Today's Progress:**
+1. 37% of basic applied visual design on FreeCodeCamp is completed
+2. By end of the night will play with python. Will be watching the 9th lecture of Code in Place in which i was selected by the Stanford University.
+
+**Thought's**
+
+Right now it's going smooth, but i think Html and CSS is practice and after vbeing done with HTML and CSS i will revise them properly to get the basic into my head properly.
+
+
+## 6: December 27, 2021
+
+**Today's Progress:**
+
 
 **Thought's**
