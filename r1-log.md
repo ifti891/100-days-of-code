@@ -40,3 +40,5 @@ Completed 37% of Applied Visual design after basic HTML and CSS today. will also
 
 ## R1D7
 
+Completed 65% of Applied Vidual design on FreeCodeCamp. Also spent more than 2 hours on python. I think i am speanding more than 6-7 hours on learning to code daily. 
+

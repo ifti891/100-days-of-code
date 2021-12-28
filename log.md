@@ -127,9 +127,20 @@ The only issue with the bootcamp is that i have very limited data and i have to 
 Right now it's going smooth, but i think Html and CSS is practice and after vbeing done with HTML and CSS i will revise them properly to get the basic into my head properly.
 
 
-## 6: December 27, 2021
+## Day 6: December 27, 2021
 
 **Today's Progress:**
 
+1. Completed basic applied visual design 65%.
+2. Topic's covered are color theory, how they can be represented in different form.
+3. Along with color theory some of the basic design principles are also covered, such as bodering of a box, changing locations etc.
+
+**Thought's**
+
+Topic's are not hard to grasp but need practice. I rather enjoy it. Kind of feel little angry today. As my 2GB internet data got exausted. And i feel kind of bad that i still don't have a regular internet. All in all i am good and learning. Exaustation of data mean's i will not able able to to any work today such as i have to apply for  PhD scholarship and look for other opportunities.
+
+## Day 7: December 28, 2021
+
+**Today's Progress:**
 
 **Thought's**
