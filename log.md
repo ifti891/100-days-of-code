@@ -116,7 +116,7 @@ The only issue with the bootcamp is that i have very limited data and i have to 
 
  Though i completed basic CSS and basic HTML on freecodecamp but i kind of struggling, however, i know more than what i knew earlier.
 
-## Day 5: December 26, 2021
+## Day 5: December 27, 2021
 
 **Today's Progress:**
 1. 37% of basic applied visual design on FreeCodeCamp is completed
@@ -127,7 +127,7 @@ The only issue with the bootcamp is that i have very limited data and i have to 
 Right now it's going smooth, but i think Html and CSS is practice and after vbeing done with HTML and CSS i will revise them properly to get the basic into my head properly.
 
 
-## Day 6: December 27, 2021
+## Day 6: December 28, 2021
 
 **Today's Progress:**
 
@@ -139,8 +139,16 @@ Right now it's going smooth, but i think Html and CSS is practice and after vbei
 
 Topic's are not hard to grasp but need practice. I rather enjoy it. Kind of feel little angry today. As my 2GB internet data got exausted. And i feel kind of bad that i still don't have a regular internet. All in all i am good and learning. Exaustation of data mean's i will not able able to to any work today such as i have to apply for  PhD scholarship and look for other opportunities.
 
-## Day 7: December 28, 2021
+## Day 7: December 29, 2021
 
 **Today's Progress:**
+1. Completed basic applied visual design.
+2. Also spent around 2 hours on python, however with minimal output of learning. Kind of slow learner actually but also many of the times very fast, if i grasp the concepts.
+3. Found a free web development course offered by Helsiniki University. Will start sooner. 
+
 
 **Thought's**
+
+The problem i am facing is that i am kind of stuck in this learning process, i mean a hell of introduction level learning process. 
+
+The problem i am facing even i understand the concepts, i face extreme proble to remember the names of functions to move ahead. but i am trying and i think i need revisions and i will be good to go.
