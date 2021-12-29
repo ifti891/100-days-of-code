@@ -119,13 +119,13 @@ The only issue with the bootcamp is that i have very limited data and i have to 
 ## Day 5: December 27, 2021
 
 **Today's Progress:**
+
 1. 37% of basic applied visual design on FreeCodeCamp is completed
 2. By end of the night will play with python. Will be watching the 9th lecture of Code in Place in which i was selected by the Stanford University.
 
 **Thought's**
 
 Right now it's going smooth, but i think Html and CSS is practice and after vbeing done with HTML and CSS i will revise them properly to get the basic into my head properly.
-
 
 ## Day 6: December 28, 2021
 
@@ -142,13 +142,13 @@ Topic's are not hard to grasp but need practice. I rather enjoy it. Kind of feel
 ## Day 7: December 29, 2021
 
 **Today's Progress:**
+
 1. Completed basic applied visual design.
 2. Also spent around 2 hours on python, however with minimal output of learning. Kind of slow learner actually but also many of the times very fast, if i grasp the concepts.
-3. Found a free web development course offered by Helsiniki University. Will start sooner. 
-
+3. Found a free web development course offered by Helsiniki University. Will start sooner.
 
 **Thought's**
 
-The problem i am facing is that i am kind of stuck in this learning process, i mean a hell of introduction level learning process. 
+The problem i am facing is that i am kind of stuck in this learning process, i mean a hell of introduction level learning process.
 
 The problem i am facing even i understand the concepts, i face extreme proble to remember the names of functions to move ahead. but i am trying and i think i need revisions and i will be good to go.
