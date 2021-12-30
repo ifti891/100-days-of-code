@@ -152,3 +152,19 @@ Topic's are not hard to grasp but need practice. I rather enjoy it. Kind of feel
 The problem i am facing is that i am kind of stuck in this learning process, i mean a hell of introduction level learning process.
 
 The problem i am facing even i understand the concepts, i face extreme proble to remember the names of functions to move ahead. but i am trying and i think i need revisions and i will be good to go.
+
+## Day 8: December 30, 2021
+
+**Today's Progress:**
+
+1. Started with Applied accessibility in HTML and CSS, to know more how the internet can become more insclusive when it is the developers are well read and understand the needs of people.
+
+2. Completed 50% of the course on Applied accessibility after completing basic HTML, CSS and applied visual design.
+
+**Thought's**
+
+I found applied accessibilty to be more useful and easy to learn but agiain i am facing the problem of remembering all of the functions. I think they will come with practice. And i am determined to continue this journey.
+
+Along with this my Python journey continues. first
+
+I haven't started with Javascript yet as i am yet to find a better tutorial or intridtuction to start with. I looked up and bbut i didn't found any good tutorial where i can start. Although i am continuly looking for the it on the internet.

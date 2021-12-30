@@ -46,3 +46,6 @@ Completed 65% of Applied Visual design on FreeCodeCamp. Also spent more than 2 h
 
 Completed 100% of Applied Visual design on FreeCodeCamp. And also learning Python, reaching closer day by day.
 
+## R1D10 
+
+Completed 50% of Applied Accessibility after completing basic HTML, CSS and Applied Visual design.
