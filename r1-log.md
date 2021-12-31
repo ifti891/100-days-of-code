@@ -49,3 +49,9 @@ Completed 100% of Applied Visual design on FreeCodeCamp. And also learning Pytho
 ## R1D10 
 
 Completed 50% of Applied Accessibility after completing basic HTML, CSS and Applied Visual design.
+
+## R1D11
+
+Completed 100% of Applied Accessibilty, also started baby steps for JavaScript and reaching at near ends of my Python course 'Code in Place'.
+
+#HappyNewYear2022 .

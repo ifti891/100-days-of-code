@@ -168,3 +168,19 @@ I found applied accessibilty to be more useful and easy to learn but agiain i am
 Along with this my Python journey continues. first
 
 I haven't started with Javascript yet as i am yet to find a better tutorial or intridtuction to start with. I looked up and bbut i didn't found any good tutorial where i can start. Although i am continuly looking for the it on the internet.
+
+## Day 9: December 31, 2021 (Happy New Year)
+
+**Today's Progress:**
+
+1. Completed 100% of Applied accessibility chapter on FreeCodeCamp 
+2. Till now HTLM, CSS, Applied Visual design and Applied accessibility.
+3. Along with it i am also continuing learning Python and almost at the finishing stage of Code in Place course which was offered by Standford University. 
+4. Haven't found any good JavaScript course online all those might be better are hidden behind a paywall. Altthogh start with Googles App called Grasshopper for basic of Javascript.
+
+**Thought's**
+
+Certainly i feel little more learned after taking a organised course from FreeCodeCamp. I wish i had started earlier i might have learned way more. As i alred have the grasp of the ideas. 
+Though syntax are bit a challenge, but i know thats only for the earlier days.
+
+#HappyNewYear to everyone who want's to change there career and wants to move to programming and webdeveloping and doing this challenge #100DaysOfCode
