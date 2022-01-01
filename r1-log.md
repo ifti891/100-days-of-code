@@ -54,4 +54,9 @@ Completed 50% of Applied Accessibility after completing basic HTML, CSS and Appl
 
 Completed 100% of Applied Accessibilty, also started baby steps for JavaScript and reaching at near ends of my Python course 'Code in Place'.
 
-#HappyNewYear2022 .
+#HappyNewYear2022
+
+
+## R1D12 (Happy New Year 2022)
+
+completed Responsive Web Design Principles, also completed 25% of CSS Flexbox on FreeCodeCamp

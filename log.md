@@ -184,3 +184,19 @@ Certainly i feel little more learned after taking a organised course from FreeCo
 Though syntax are bit a challenge, but i know thats only for the earlier days.
 
 #HappyNewYear to everyone who want's to change there career and wants to move to programming and webdeveloping and doing this challenge #100DaysOfCode
+
+## Day 10: January 1, 2022 (Happy New Year)
+
+**Today's Progress:**
+
+1. Today started with Responsive Web Design Principles, as it was a small chapter related to other CSS properties, doen't took much time to complete.
+
+2. Started with CSS Flexbox, completed 25%.
+
+**Thought's**
+
+I moving fast i mean i am learning something and learning fast. Although i belive when i will reach at the project stage i will have to revise from the start becasue the Syntax are hard to remember. They re way too many to remember.
+
+Along with it i am still going through Python, hopefully i will be able to finish the course.
+
+With all this i am also going through some of the PhD stuff i have applied to, i have to send a writup to be considered for the next round of interview. Many i hat this much of shit. 
