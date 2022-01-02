@@ -199,4 +199,17 @@ I moving fast i mean i am learning something and learning fast. Although i beliv
 
 Along with it i am still going through Python, hopefully i will be able to finish the course.
 
-With all this i am also going through some of the PhD stuff i have applied to, i have to send a writup to be considered for the next round of interview. Many i hat this much of shit. 
+With all this i am also going through some of the PhD stuff i have applied to, i have to send a writup to be considered for the next round of interview. Many i hat this much of shit.
+
+## Day 11: January 2, 2022 (Still Happy New Year)
+
+**Today's Progress**
+
+1. Completed CSS Flexbox (100%) on FreeCodeCamp.
+2. Not hard but challenging, challenging in way that remembering that many number of syntax that's challenging. 
+3. Started with CSS Grid
+4. Aside from this i am also learning basic Javascript but haven't mentioned here.
+
+**Thought's**
+
+Spending more than 4 hours a day, although except +FreeCodeCamp i not able to see much progress in me. But that's also kind of a lie. I am actually progressing. Reached quite far in Python. Still taking time to finish Python. Also started basic Javascript. I am doing Python because i started with Python earlier and i don't want to leave that in the middle of nowwher. 

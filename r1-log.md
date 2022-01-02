@@ -60,3 +60,7 @@ Completed 100% of Applied Accessibilty, also started baby steps for JavaScript a
 ## R1D12 (Happy New Year 2022)
 
 completed Responsive Web Design Principles, also completed 25% of CSS Flexbox on FreeCodeCamp
+
+## R1D13 (Still Happy New Year)
+
+Completed CSS Flexbox and started with CSS Grid on FreeCodeCamp. Alo started basic Javascript on Google Grasshopper website. 
