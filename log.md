@@ -213,3 +213,16 @@ With all this i am also going through some of the PhD stuff i have applied to, i
 **Thought's**
 
 Spending more than 4 hours a day, although except +FreeCodeCamp i not able to see much progress in me. But that's also kind of a lie. I am actually progressing. Reached quite far in Python. Still taking time to finish Python. Also started basic Javascript. I am doing Python because i started with Python earlier and i don't want to leave that in the middle of nowwher. 
+
+
+## Day 12: January 3, 2022
+
+**Today's Progress**
+
+1. Completed CSS Grid. It's little bit though actually, not conceptually; which i understand crealy by remembering those functions and syntaxes.
+
+2. Also spent some time with Python and spent some time with Distionaries. Understood that basic of distionaries but i need to understand the proper use of the disctionaries.
+
+**Thought's**
+
+I will revise once again for once beacuse to understand bit more the fuctionailities of those functions. Alongwith it will at the same time build my first  website without any wait that i will start only when i know all the concepts. I will start it now.

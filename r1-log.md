@@ -64,3 +64,8 @@ completed Responsive Web Design Principles, also completed 25% of CSS Flexbox on
 ## R1D13 (Still Happy New Year)
 
 Completed CSS Flexbox and started with CSS Grid on FreeCodeCamp. Alo started basic Javascript on Google Grasshopper website. 
+
+
+## R!D14
+
+Completed CSS Grid on FreeCodeCamp and learned Disctionaries in Python. Learning Javascript in a slow pace.
