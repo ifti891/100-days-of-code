@@ -226,3 +226,20 @@ Spending more than 4 hours a day, although except +FreeCodeCamp i not able to se
 **Thought's**
 
 I will revise once again for once beacuse to understand bit more the fuctionailities of those functions. Alongwith it will at the same time build my first  website without any wait that i will start only when i know all the concepts. I will start it now.
+
+
+## Day 13: january 4, 2022
+
+**Today's Progress**
+
+1. Still learining, has been 5 hours i guess and inbetween i ret too.
+2. Completed the Webdesigning course on FreeCodeCamp, and revising along with.
+3. Started working on the first project after finishing the course.
+4. stuck in the middle though, but i am enjoying it.
+
+**Thought's**
+
+I am enjoying it i wish if i knew earlier about FreeCodeCamp, i knew about lot of places where one can learn coding but unfortunatly i didn't knew about FreeCodeCamp.
+Joined a 30 weeks bootcamp with #LearnWithLeon #100Dev, it will start soon. I think i am bokked ofr few months.
+
+**Link to First project** [Tribute Page](https://codepen.io/ifti891/pen/wvrjwXP)
