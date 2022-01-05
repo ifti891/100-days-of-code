@@ -243,3 +243,14 @@ I am enjoying it i wish if i knew earlier about FreeCodeCamp, i knew about lot o
 Joined a 30 weeks bootcamp with #LearnWithLeon #100Dev, it will start soon. I think i am bokked ofr few months.
 
 **Link to First project** [Tribute Page](https://codepen.io/ifti891/pen/wvrjwXP)
+
+## Day 14: January 5, 2022
+
+1. Worked on the same [Tribute page](https://codepen.io/ifti891/pen/wvrjwXP) 
+2. Cleaned the codes which were going here and there.
+3. Made website cleaner
+4. While continuing writing for those PhD positions, they are taking on my nerve now. 
+
+**Thought's**
+
+It's snowing outside and light constantly goes out whatever time i get when there is some electricity i do something. While continuing my journey into webdevelopment. Beside it i also started learning some Javascript. And also learning python because i want to finish the course i had taken. so i am actully near. 

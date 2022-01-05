@@ -72,3 +72,8 @@ Completed CSS Grid on FreeCodeCamp and learned Disctionaries in Python. Learning
 
 ## R1D15
 Completed Webdesigining course on  FreeCodeCamp, now working on first project **link to first project** [Tribute Page](https://codepen.io/ifti891/pen/wvrjwXP)
+
+
+## R1D15
+
+Working on the Tribute page, completed a lot actually, also started with javascript after HTML and CSS.
