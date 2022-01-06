@@ -77,3 +77,6 @@ Completed Webdesigining course on  FreeCodeCamp, now working on first project **
 ## R1D15
 
 Working on the Tribute page, completed a lot actually, also started with javascript after HTML and CSS.
+
+## R1D16
+Cleaned and finished the first Project from Responsive Web Design on FreeCodeCamp. 

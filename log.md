@@ -254,3 +254,20 @@ Joined a 30 weeks bootcamp with #LearnWithLeon #100Dev, it will start soon. I th
 **Thought's**
 
 It's snowing outside and light constantly goes out whatever time i get when there is some electricity i do something. While continuing my journey into webdevelopment. Beside it i also started learning some Javascript. And also learning python because i want to finish the course i had taken. so i am actully near. 
+
+## Day 15: January 6, 2022
+
+**Today's Progress**
+1. Polished the the first project after finishing Responsive Web Design on FreeCodeCamp.
+2. Finished the website building and it looks wonderful actully. Experimented a lot with CSS codes.
+
+ *Here are the links below:*  
+ [ *Here is the link* ](https://codepen.io/ifti891/pen/KKXeLqm) and [*Github Repository*](https://github.com/ifti891/first-website-finished-FreeCodeCamp-project.git)
+
+3. Learned Github, rather better now.
+4. VS Code in a better way.
+5. Classes for 30 weeks Web developer Bootcamp starting on 11th January 2022. 
+
+**Thought's**
+
+I am making Progress, and i am really happy that i enjoy programming, which i always wanted to do. Althoug always ignored due to family and prees pressure in search for low paying jobs and stable career which never came for me. And to some extent my own failure to realise earlier. I still have to send a write up for the PhD program i have applied and i am not able to do it. Because my heart is somewhere else. 
