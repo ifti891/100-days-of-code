@@ -80,3 +80,6 @@ Working on the Tribute page, completed a lot actually, also started with javascr
 
 ## R1D16
 Cleaned and finished the first Project from Responsive Web Design on FreeCodeCamp. 
+
+## R!D17
+Started working on second project. Overall didn't made much progress as i am under pressure because of other things in life.

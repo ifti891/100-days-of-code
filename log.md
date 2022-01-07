@@ -271,3 +271,16 @@ It's snowing outside and light constantly goes out whatever time i get when ther
 **Thought's**
 
 I am making Progress, and i am really happy that i enjoy programming, which i always wanted to do. Althoug always ignored due to family and prees pressure in search for low paying jobs and stable career which never came for me. And to some extent my own failure to realise earlier. I still have to send a write up for the PhD program i have applied and i am not able to do it. Because my heart is somewhere else. 
+
+## Day 15: January 7, 2022
+
+**Today's Progress**
+1. Not much actually, rather dismall. 
+2. Started working on the second project but was dishonest, and looked at the solved one so it's not a great thing. But i am still learning but at the same time i didn't lookd all ove the solution.
+3. Here is the link to the second Project i am doing on FreeCodeCamp [link to project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000). But it's just small one.
+4. Learned desinging a survey in HTML and CSS and also taking some of Javascript's help.
+
+**Thought's**
+Actually under pressure right now, have to send a write up for my PhD selection for which i have applied, and i reached in last 16. So now i have to submit some more information to reach further into an interview by 14th of this January, And i haven't wrote a work, I am confused.
+
+With pressue of a Job and the BootCamp i am taking this year, i don't know how long will i be able to continue it, though i very much committed. But my parent's are not happy and i am also under pressure. Hopefully i wiil be able to do some thing this year.
