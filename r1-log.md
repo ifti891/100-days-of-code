@@ -81,5 +81,11 @@ Working on the Tribute page, completed a lot actually, also started with javascr
 ## R1D16
 Cleaned and finished the first Project from Responsive Web Design on FreeCodeCamp. 
 
-## R!D17
+## R1D17
 Started working on second project. Overall didn't made much progress as i am under pressure because of other things in life.
+
+## R1D18
+Worked on second project, not able to spend much time due the electricty shutdown due to heavy snowing. Worked only about for half hour.
+
+## R1D19
+Worked on same second FreeCodeCamp [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000), bit higher learning curve for CSS. 

@@ -272,7 +272,7 @@ It's snowing outside and light constantly goes out whatever time i get when ther
 
 I am making Progress, and i am really happy that i enjoy programming, which i always wanted to do. Althoug always ignored due to family and prees pressure in search for low paying jobs and stable career which never came for me. And to some extent my own failure to realise earlier. I still have to send a write up for the PhD program i have applied and i am not able to do it. Because my heart is somewhere else. 
 
-## Day 15: January 7, 2022
+## Day 16: January 7, 2022
 
 **Today's Progress**
 
@@ -286,3 +286,45 @@ I am making Progress, and i am really happy that i enjoy programming, which i al
 Actually under pressure right now, have to send a write up for my PhD selection for which i have applied, and i reached in last 16. So now i have to submit some more information to reach further into an interview by 14th of this January, And i haven't wrote a work, I am confused.
 
 With pressue of a Job and the BootCamp i am taking this year, i don't know how long will i be able to continue it, though i very much committed. But my parent's are not happy and i am also under pressure. Hopefully i wiil be able to do some thing this year.
+
+## Day 17: January 8, 2022
+
+**Today's Progres**
+
+1. No electricty for whole 2 days, so could only able to spend some very little time of the learning.
+2. Only about half hour i think, worked on the second project did small changes.
+3. Though by the night i tried to learn some Javascript on my Smartphone.
+4. Yes wrote a small javascrip program.
+
+  **// # This program converts dollors to Yen 
+
+function inYen(dollars, ) {
+  let amount = dollars * 113;
+  return amount;
+}
+
+console.log('20 US dollars is: ');
+console.log(inYen(20) +
+' Japanese yen');
+console.log('100 US dollars is: ');
+console.log(inYen(100) + 
+' Japanese yen');** 
+
+**Tought's**
+Running little under pressure related to future. Also has to send a write-up for PhD, which i am not able to write, sort of foggy bain. Though started today somewhat, hopefully i will be able to write something by 14th of january and be able to sent it to the professor. It's a huge opportunity for as i am the first from my family to cross high school and later did a master. And i never dreamt of such a thing. 
+Though JavaScrip seems little tough nut to crack but i am committed. I am facing little problem with CSS tho. not just CSS but also HTML.
+
+
+## Day 18: January 9, 2022
+
+**Today's Progress**
+1. Spent around one and half hour on the FreeCodeCamp 2nd project.
+2. Facing learning curve with CSS but also with HTML too. But CSS mostly.
+3. Can measure my progress from the first day, i can see i didn't knew anything about HTML and CSS some 18 day's ago, now it seems i am somewhere else.
+
+**Thought's**
+
+Electricity came back, but not regualrly, this will be same for around 3 months from now on. I have to adjust my calender accordingly. As the classes for the wonderfull 30 weeks bootcamp starting on 11th january. And my classes are in the very early morning. Hopefully in the morning there will be electricity. 
+
+
+Here is the [link](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000) to the 2nd FreeCodeCamp Project. taking time actually. CSS, that is some wonderful technology but now knid of bit higher learning curve after when you learn some basic. HTML is also not that easy i would say. 
