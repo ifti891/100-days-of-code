@@ -328,3 +328,11 @@ Electricity came back, but not regualrly, this will be same for around 3 months 
 
 
 Here is the [link](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000) to the 2nd FreeCodeCamp Project. taking time actually. CSS, that is some wonderful technology but now knid of bit higher learning curve after when you learn some basic. HTML is also not that easy i would say. 
+
+## Day 19: January 10, 2022
+
+**Todays**
+1. Still working on the second [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000) of FreeCodeCamp.
+2. Found a cool library to use called Sakura, but it's for fun only, will still be working on CSS myself.
+3. Had the first office hour with Leon on Twitch. It was of three hours and it was fire.
+

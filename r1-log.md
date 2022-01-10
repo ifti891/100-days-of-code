@@ -89,3 +89,6 @@ Worked on second project, not able to spend much time due the electricty shutdow
 
 ## R1D19
 Worked on same second FreeCodeCamp [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000), bit higher learning curve for CSS. 
+
+## R1D20
+Still working on the same FreeCodeCamp second [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000). Also found a cool library which changes whole of the old school looking website into modern. I just used it for fun. I will be disabling it and will still work on CSS myself.  
