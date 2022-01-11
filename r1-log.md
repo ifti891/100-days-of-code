@@ -74,21 +74,24 @@ Completed CSS Grid on FreeCodeCamp and learned Disctionaries in Python. Learning
 Completed Webdesigining course on  FreeCodeCamp, now working on first project **link to first project** [Tribute Page](https://codepen.io/ifti891/pen/wvrjwXP)
 
 
-## R1D15
+## R1D16
 
 Working on the Tribute page, completed a lot actually, also started with javascript after HTML and CSS.
 
-## R1D16
+## R1D17
 Cleaned and finished the first Project from Responsive Web Design on FreeCodeCamp. 
 
-## R1D17
+## R1D18
 Started working on second project. Overall didn't made much progress as i am under pressure because of other things in life.
 
-## R1D18
+## R1D19
 Worked on second project, not able to spend much time due the electricty shutdown due to heavy snowing. Worked only about for half hour.
 
-## R1D19
+## R1D20
 Worked on same second FreeCodeCamp [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000), bit higher learning curve for CSS. 
 
-## R1D20
+## R1D21
 Still working on the same FreeCodeCamp second [Project](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000). Also found a cool library which changes whole of the old school looking website into modern. I just used it for fun. I will be disabling it and will still work on CSS myself.  
+
+## R1D22
+Still working on the second project and i have to submit my PhD write-up by 14th of january. So kind of busy. 
