@@ -340,7 +340,7 @@ Here is the [link](https://codepen.io/ifti891/pen/xxXJWYx?editors=1000) to the 2
 
 Started Leon's 30 weeks free bootcamp and God keep him healthy, what a nice person. Always wanted to learn coding but without feeling that i am not worth it or will not be able to do. That's what Leon is, he makes you believe in yourself. I will sure finish the bootcamp and get a wonderful job in tech as software engineer.
 
-## Day 20: January 10, 2022
+## Day 20: January 11, 2022
 
 **Today's Progress**
 1. Still working on the senond project, although didn't wored much today on the project. 
@@ -348,3 +348,17 @@ Started Leon's 30 weeks free bootcamp and God keep him healthy, what a nice pers
    
 **Thought's**
 Not able to give much time to coding, though still giving some time. As i have to submit the PhD write-up but i am not even able to it the proper time. Working out!!!! And received my rejection letter for the job i applied.
+
+
+## Day 21: January 12, 2022
+
+**Today's Progress**
+1. Addented the first class of the 30 weeks bootcamp by Leon.
+2. Lecture was of 3.20 hours, fairly long, and my room was super cold because there was no electricity and i had to watch from under the bedding.
+3. Still sleepy feeling.
+4. I am stuck in the 2 project, kind of bit hard actually. 
+
+**Thought's**
+I like the coding, but from last 2 days i been not set doing lot of other works. Such as trying to finish the PhD write-up; now there is another one is which i had to apply. Also have to apply for a PhD scholarship. Leon's class was fire, i liked it and it's free.
+
+I learned using Anki app, wish i knew it earlier, i could have learned Python more better way. 

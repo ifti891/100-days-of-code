@@ -95,3 +95,6 @@ Still working on the same FreeCodeCamp second [Project](https://codepen.io/ifti8
 
 ## R1D22
 Still working on the second project and i have to submit my PhD write-up by 14th of january. So kind of busy. 
+
+## R1D23
+Still in the second project. Will be finishing in two days. Had to submit a phd application.
