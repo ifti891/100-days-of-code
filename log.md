@@ -362,3 +362,15 @@ Not able to give much time to coding, though still giving some time. As i have t
 I like the coding, but from last 2 days i been not set doing lot of other works. Such as trying to finish the PhD write-up; now there is another one is which i had to apply. Also have to apply for a PhD scholarship. Leon's class was fire, i liked it and it's free.
 
 I learned using Anki app, wish i knew it earlier, i could have learned Python more better way. 
+
+## Day 22: January 13, 2022
+
+**Today's Progress**
+1. alome daily electricity cut of 18 hours really affecting my progress.
+2.  And the other thing had lot of work in past 5 days, but still managed to look and learn some i.e. Attented 3.28 hours bootcam lecture with Leon. 
+3.  Could not able to practice on FreeCodeCamp. 
+4.  But in the morning it's the second class of the bootcamp. And it will be hell if there is still no electricity, because now its gone.
+
+**Thought's**
+Without electricty it's just another level of difficult beside not having internet and good computer. i wish i could afford a laptop so that i can buy one each for my two siblings.
+Somehow i was able to submit my research proposal today. So not that bad except i badly wanted to learn from this Bootcamp.

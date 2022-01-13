@@ -98,3 +98,6 @@ Still working on the second project and i have to submit my PhD write-up by 14th
 
 ## R1D23
 Still in the second project. Will be finishing in two days. Had to submit a phd application.
+
+## R1D24
+There was no electricity, so it was very difficult and is difficult from past 4 days due to not having any electricity. Submitted my PhD proposal tho. 
