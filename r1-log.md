@@ -101,3 +101,6 @@ Still in the second project. Will be finishing in two days. Had to submit a phd 
 
 ## R1D24
 There was no electricity, so it was very difficult and is difficult from past 4 days due to not having any electricity. Submitted my PhD proposal tho. 
+
+## R1D25
+Attended second lecture of the #LearnwithLeon 30 weeks bootcamp. started coursera how to learn course and build another website tho. barebone. Yestraday submitted the final documents asked for the PhD by the professor.

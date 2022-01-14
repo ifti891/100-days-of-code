@@ -374,3 +374,18 @@ I learned using Anki app, wish i knew it earlier, i could have learned Python mo
 **Thought's**
 Without electricty it's just another level of difficult beside not having internet and good computer. i wish i could afford a laptop so that i can buy one each for my two siblings.
 Somehow i was able to submit my research proposal today. So not that bad except i badly wanted to learn from this Bootcamp.
+
+## Day 23: January 14, 2022
+
+**Today's Progress**
+1. Attended the second lecture of #LearnWithLeon 30 weeks Fullstck Development bootcamp.
+2. Built barebone webpage.
+3. Working on the second page.
+4. Lecture was of 3 hours and one of the best lecture. Wish i had some electricity i would have enjoyed it better.
+5. started with the coursera course How to learn.
+
+
+**Though't**
+
+I am enjoying coding, hopefully i will be able to complete this bootcamp and will be able to secure a better job. And i think i will be able to secure a better job. 
+Don't know what will the result of my PhD for which i submitted the asked documents. I wish if this could be my chance. However, this time i am not that much worried if i didn't able to secure it like earlier. As i am happy be learning coding, becasue i enjoy it more than anything. If i didn't get tired of get sleepy i will always like to do coding, because that how much i enjoy coding and technology. 
