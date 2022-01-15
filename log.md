@@ -391,7 +391,7 @@ I am enjoying coding, hopefully i will be able to complete this bootcamp and wil
 Don't know what will the result of my PhD for which i submitted the asked documents. I wish if this could be my chance. However, this time i am not that much worried if i didn't able to secure it like earlier. As i am happy be learning coding, becasue i enjoy it more than anything. If i didn't get tired of get sleepy i will always like to do coding, because that how much i enjoy coding and technology. 
 
 
-## Day 34: January 15, 2022
+## Day 24: January 15, 2022
 
 **Today's Progress**
 1. Completed the 2nd homework given in the bootcamp. really enoyed it. 
