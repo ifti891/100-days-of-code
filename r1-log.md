@@ -104,3 +104,6 @@ There was no electricity, so it was very difficult and is difficult from past 4 
 
 ## R1D25
 Attended second lecture of the #LearnwithLeon 30 weeks bootcamp. started coursera how to learn course and build another website tho. barebone. Yestraday submitted the final documents asked for the PhD by the professor.
+
+## R1D26
+Did the homework given in the 300 week bootcamp, built a basic BBC.com replica website. Completed the second week of How to learn course on coursera.

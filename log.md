@@ -385,7 +385,20 @@ Somehow i was able to submit my research proposal today. So not that bad except 
 5. started with the coursera course How to learn.
 
 
-**Though't**
+**Thought's**
 
 I am enjoying coding, hopefully i will be able to complete this bootcamp and will be able to secure a better job. And i think i will be able to secure a better job. 
 Don't know what will the result of my PhD for which i submitted the asked documents. I wish if this could be my chance. However, this time i am not that much worried if i didn't able to secure it like earlier. As i am happy be learning coding, becasue i enjoy it more than anything. If i didn't get tired of get sleepy i will always like to do coding, because that how much i enjoy coding and technology. 
+
+
+## Day 34: January 15, 2022
+
+**Today's Progress**
+1. Completed the 2nd homework given in the bootcamp. really enoyed it. 
+2. Built a basic replica of BBC.com 
+3. Completed second weeks lecture of the course How to learn on Coursera. 
+
+
+**Thought's**
+
+Little less stress from yestraday after submitting the asked documents to professor for a PhD position. However, now i am not that much interested in a PhD. I think i enjoy coding way more. Actually, till now i have never enjoyed anything more than coding. I feel like this is what i was looking. Tho. inspite of this much, i been struggling to move past the wall of crossing basic HTML. And this is worrying me. I hope i will soon get past this wall of basic, i always get stuck here.
