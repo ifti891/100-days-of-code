@@ -107,3 +107,7 @@ Attended second lecture of the #LearnwithLeon 30 weeks bootcamp. started courser
 
 ## R1D26
 Did the homework given in the 300 week bootcamp, built a basic BBC.com replica website. Completed the second week of How to learn course on coursera.
+
+## R1D26
+
+Completed Learning how to learn coursera course. Completed 80% of the second homework. Have to read Shahowe though only complted Introduction and 1st chapter.

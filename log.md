@@ -402,3 +402,18 @@ Don't know what will the result of my PhD for which i submitted the asked docume
 **Thought's**
 
 Little less stress from yestraday after submitting the asked documents to professor for a PhD position. However, now i am not that much interested in a PhD. I think i enjoy coding way more. Actually, till now i have never enjoyed anything more than coding. I feel like this is what i was looking. Tho. inspite of this much, i been struggling to move past the wall of crossing basic HTML. And this is worrying me. I hope i will soon get past this wall of basic, i always get stuck here.
+
+## 25: January 19, 2022
+
+**Today's Progress**
+
+1. Completed Learning how to learn coursera course and finished all of the short tests. [Link to certificate](https://coursera.org/share/8145724044ab853dde1e216715309deb)
+2. Also worked on the lecture second homework given by Leon in #100Devs Bootcamp. 80% done, submitted the first of the homework.
+3. Attented the lecture third today morning 5am-8am, 3 hours lecture.
+  
+
+**Thought's**
+Although i was not able to update it my #100DayofCode from past three days, but i did not flunked my progress. I was only away from my laptop. 
+On Sunday attended the Office hours by Leon in #100Devs Bootcamp. Spent 2 hour's there, also worked on some coding in smartphone.
+
+I am happy with my progress though, need little more push to read more and try to write more codes and be more creative instead of just thiking inside the box. So had to work more on html. 
