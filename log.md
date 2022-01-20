@@ -417,3 +417,18 @@ Although i was not able to update it my #100DayofCode from past three days, but 
 On Sunday attended the Office hours by Leon in #100Devs Bootcamp. Spent 2 hour's there, also worked on some coding in smartphone.
 
 I am happy with my progress though, need little more push to read more and try to write more codes and be more creative instead of just thiking inside the box. So had to work more on html. 
+
+## 26: January 20, 2022
+
+**Today's Progress**
+1. Rewatched the 3rd lecture of the #100Devs bootcamp to understand better the website construction.
+2. Learned the positioning of the different tags in html.
+3. learnt about the visualizing the websites before construction.
+4. completed the 2nd homework.
+5. played little bit with code differently.
+6. not able to sontinue the readng.
+7. filled and submitted the MSc in Cognitive Science
+8. Mailed prof. regarding setting up of the interviews.
+
+**Thought's**
+Not ablw to continue the readings today as still doing other work such as contacting professor for stting up of the interview. Tho. ther are very little chance of getting into which the prof. has already has mentioned that due to not having the experience of working in Africa i have very little chance of getting in. But i still don't understand why i am still in the interview process despite not having any experience of working in the Africa which is said to be an important point for the consideration. Honestly, it also consumes my time for no reason, gives me anxiety for no reason. If i am not eligible then say so, why takking me along something you are constantly saying that i might not be able to get into but still choose me from 150 applications you received and later into a selection of 16 and further more into the selection of of 8 who are going for interviews. Kind of too long a process and mentally taxing.
