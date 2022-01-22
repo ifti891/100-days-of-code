@@ -114,3 +114,6 @@ Completed Learning how to learn coursera course. Completed 80% of the second hom
 
 ## R1D27
 completed the 2nd homework, did not read the reading as did not able to get the time. Bit late today toupdate here because of electricity. Played little more with the coding.
+
+## R1D28
+Completed two colone websites of Khan Academy and Techcrunch.  Learnt about various uses of section and nav containers.

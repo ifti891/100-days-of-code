@@ -432,3 +432,16 @@ I am happy with my progress though, need little more push to read more and try t
 
 **Thought's**
 Not ablw to continue the readings today as still doing other work such as contacting professor for stting up of the interview. Tho. ther are very little chance of getting into which the prof. has already has mentioned that due to not having the experience of working in Africa i have very little chance of getting in. But i still don't understand why i am still in the interview process despite not having any experience of working in the Africa which is said to be an important point for the consideration. Honestly, it also consumes my time for no reason, gives me anxiety for no reason. If i am not eligible then say so, why takking me along something you are constantly saying that i might not be able to get into but still choose me from 150 applications you received and later into a selection of 16 and further more into the selection of of 8 who are going for interviews. Kind of too long a process and mentally taxing.
+
+## Day 27: January 22 2022
+
+**Today's Progress**
+1. Covid positive, recovering but preety bad.
+2. Built two website colnes from scratches, Khan Academy and Techcrunch. 
+3. spent around 6 hours on learning 
+4. still enjoying coding more than anything i have every enjoyed anything 
+
+
+**Thought's**
+
+Haven't updated here and on Twitter but i haven't missed a day when i haven't been learning coding or any other information related to coding. Yestraday i wan't able to update because i was in pretty much bad condition. Alss, have to prepare for the PhD interview, kind of not interested any longer now. 
