@@ -445,3 +445,23 @@ Not ablw to continue the readings today as still doing other work such as contac
 **Thought's**
 
 Haven't updated here and on Twitter but i haven't missed a day when i haven't been learning coding or any other information related to coding. Yestraday i wan't able to update because i was in pretty much bad condition. Alss, have to prepare for the PhD interview, kind of not interested any longer now. 
+
+## Day 28: January 23, 2022
+
+**Today's Progress**
+1. Worked on two websites Techcrunch and Khan-academy.
+2. Have Covid-19 positive.
+
+**Thaught's**
+
+Bit slowed down because of covid, still has to read all of the shayhowe.
+
+
+## Day 29: January 24, 2022
+
+**Today's Progress**
+1. Working of the homework.
+2. And have covid.
+
+**Thought's**
+Can't work much due to covid, but still i think i have spend more than two hours on coding. So it nice. If there is continuous electricity i would have done much better, as i always have to to work after 12 am in the night, because fortunately that's the only time when my village have any electricty.

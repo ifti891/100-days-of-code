@@ -117,3 +117,14 @@ completed the 2nd homework, did not read the reading as did not able to get the 
 
 ## R1D28
 Completed two colone websites of Khan Academy and Techcrunch.  Learnt about various uses of section and nav containers.
+
+## R1D29
+Woked on the homework given by the Leon.
+
+## R1D30
+
+Working on the honework. 
+
+## R1D31
+
+Working on the homework in lecture 4. Attended office hour.
