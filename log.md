@@ -450,7 +450,7 @@ Haven't updated here and on Twitter but i haven't missed a day when i haven't be
 
 **Today's Progress**
 1. Worked on two websites Techcrunch and Khan-academy.
-2. Have Covid-19 positive.
+2. Got Covid-19 positive.
 
 **Thaught's**
 
